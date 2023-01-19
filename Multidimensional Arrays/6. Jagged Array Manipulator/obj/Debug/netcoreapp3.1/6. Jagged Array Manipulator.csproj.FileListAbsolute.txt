@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.exe
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.deps.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\6. Jagged Array Manipulator.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Multidimensional Arrays\6. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\6. Jagged Array Manipulator.genruntimeconfig.cache
