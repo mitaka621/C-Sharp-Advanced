@@ -1,0 +1,15 @@
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\bin\Debug\net6.0\4.Froggy.exe
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\bin\Debug\net6.0\4.Froggy.deps.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\bin\Debug\net6.0\4.Froggy.runtimeconfig.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\bin\Debug\net6.0\4.Froggy.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\bin\Debug\net6.0\4.Froggy.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\obj\Debug\net6.0\4.Froggy.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\obj\Debug\net6.0\4.Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\obj\Debug\net6.0\4.Froggy.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\obj\Debug\net6.0\4.Froggy.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\obj\Debug\net6.0\4.Froggy.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\obj\Debug\net6.0\4.Froggy.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\obj\Debug\net6.0\refint\4.Froggy.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\obj\Debug\net6.0\4.Froggy.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\obj\Debug\net6.0\4.Froggy.genruntimeconfig.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\4.Froggy\obj\Debug\net6.0\ref\4.Froggy.dll

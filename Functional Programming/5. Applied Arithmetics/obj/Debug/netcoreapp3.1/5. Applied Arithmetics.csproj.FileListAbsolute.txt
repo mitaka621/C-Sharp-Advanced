@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.exe
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.deps.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.runtimeconfig.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\bin\Debug\netcoreapp3.1\5. Applied Arithmetics.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\5. Applied Arithmetics\obj\Debug\netcoreapp3.1\5. Applied Arithmetics.genruntimeconfig.cache

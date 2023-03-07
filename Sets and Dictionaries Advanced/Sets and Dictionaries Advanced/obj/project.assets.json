@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dimitar\\Documents\\GitHub\\Advanced\\Sets and Dictionaries Advanced\\Sets and Dictionaries Advanced\\Sets and Dictionaries Advanced.csproj",
-      "projectName": "Sets and Dictionaries Advanced",
-      "projectPath": "C:\\Users\\Dimitar\\Documents\\GitHub\\Advanced\\Sets and Dictionaries Advanced\\Sets and Dictionaries Advanced\\Sets and Dictionaries Advanced.csproj",
+      "projectUniqueName": "C:\\Users\\Dimitar\\Documents\\GitHub\\Advanced\\Sets and Dictionaries Advanced\\Sets and Dictionaries Advanced\\Problem 1. Unique Usernames.csproj",
+      "projectName": "Problem 1. Unique Usernames",
+      "projectPath": "C:\\Users\\Dimitar\\Documents\\GitHub\\Advanced\\Sets and Dictionaries Advanced\\Sets and Dictionaries Advanced\\Problem 1. Unique Usernames.csproj",
       "packagesPath": "C:\\Users\\Dimitar\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dimitar\\Documents\\GitHub\\Advanced\\Sets and Dictionaries Advanced\\Sets and Dictionaries Advanced\\obj\\",
       "projectStyle": "PackageReference",

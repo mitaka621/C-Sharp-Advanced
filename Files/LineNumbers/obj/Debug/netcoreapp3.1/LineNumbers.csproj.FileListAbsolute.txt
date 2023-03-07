@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Files\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

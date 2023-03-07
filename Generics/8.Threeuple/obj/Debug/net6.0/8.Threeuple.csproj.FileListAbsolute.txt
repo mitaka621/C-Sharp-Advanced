@@ -1,0 +1,15 @@
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\bin\Debug\net6.0\8.Threeuple.exe
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\bin\Debug\net6.0\8.Threeuple.deps.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\bin\Debug\net6.0\8.Threeuple.runtimeconfig.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\bin\Debug\net6.0\8.Threeuple.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\bin\Debug\net6.0\8.Threeuple.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\obj\Debug\net6.0\8.Threeuple.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\obj\Debug\net6.0\8.Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\obj\Debug\net6.0\8.Threeuple.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\obj\Debug\net6.0\8.Threeuple.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\obj\Debug\net6.0\8.Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\obj\Debug\net6.0\8.Threeuple.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\obj\Debug\net6.0\refint\8.Threeuple.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\obj\Debug\net6.0\8.Threeuple.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\obj\Debug\net6.0\8.Threeuple.genruntimeconfig.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\8.Threeuple\obj\Debug\net6.0\ref\8.Threeuple.dll

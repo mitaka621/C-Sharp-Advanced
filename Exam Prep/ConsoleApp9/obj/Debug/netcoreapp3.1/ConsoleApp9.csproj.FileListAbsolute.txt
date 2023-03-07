@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Exam Prep\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\bin\Debug\net6.0\7.CustomComparator.exe
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\bin\Debug\net6.0\7.CustomComparator.deps.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\bin\Debug\net6.0\7.CustomComparator.runtimeconfig.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\bin\Debug\net6.0\7.CustomComparator.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\bin\Debug\net6.0\7.CustomComparator.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\obj\Debug\net6.0\7.CustomComparator.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\obj\Debug\net6.0\7.CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\obj\Debug\net6.0\7.CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\obj\Debug\net6.0\7.CustomComparator.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\obj\Debug\net6.0\7.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\obj\Debug\net6.0\7.CustomComparator.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\obj\Debug\net6.0\refint\7.CustomComparator.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\obj\Debug\net6.0\7.CustomComparator.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\obj\Debug\net6.0\7.CustomComparator.genruntimeconfig.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Iterators and Comparators\7. Custom Comparator\obj\Debug\net6.0\ref\7.CustomComparator.dll

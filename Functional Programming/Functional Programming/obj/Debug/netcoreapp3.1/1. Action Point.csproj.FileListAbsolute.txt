@@ -1,0 +1,14 @@
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\1. Action Point.exe
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\1. Action Point.deps.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\1. Action Point.runtimeconfig.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\1. Action Point.runtimeconfig.dev.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\1. Action Point.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\1. Action Point.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\1. Action Point.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\1. Action Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\1. Action Point.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\1. Action Point.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\1. Action Point.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\1. Action Point.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\1. Action Point.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\1. Action Point.genruntimeconfig.cache

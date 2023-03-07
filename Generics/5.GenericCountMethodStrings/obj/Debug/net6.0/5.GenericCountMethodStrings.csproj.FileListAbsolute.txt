@@ -1,0 +1,15 @@
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\obj\Debug\net6.0\5.GenericCountMethodStrings.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\obj\Debug\net6.0\5.GenericCountMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\obj\Debug\net6.0\5.GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\obj\Debug\net6.0\5.GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\obj\Debug\net6.0\5.GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\bin\Debug\net6.0\5.GenericCountMethodStrings.exe
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\bin\Debug\net6.0\5.GenericCountMethodStrings.deps.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\bin\Debug\net6.0\5.GenericCountMethodStrings.runtimeconfig.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\bin\Debug\net6.0\5.GenericCountMethodStrings.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\bin\Debug\net6.0\5.GenericCountMethodStrings.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\obj\Debug\net6.0\5.GenericCountMethodStrings.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\obj\Debug\net6.0\refint\5.GenericCountMethodStrings.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\obj\Debug\net6.0\5.GenericCountMethodStrings.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\obj\Debug\net6.0\5.GenericCountMethodStrings.genruntimeconfig.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Generics\5.GenericCountMethodStrings\obj\Debug\net6.0\ref\5.GenericCountMethodStrings.dll

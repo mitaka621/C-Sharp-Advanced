@@ -1,0 +1,15 @@
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\obj\Debug\net6.0\7.RawData.csproj.AssemblyReference.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\obj\Debug\net6.0\7.RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\obj\Debug\net6.0\7.RawData.AssemblyInfoInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\obj\Debug\net6.0\7.RawData.AssemblyInfo.cs
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\obj\Debug\net6.0\7.RawData.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\bin\Debug\net6.0\7.RawData.exe
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\bin\Debug\net6.0\7.RawData.deps.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\bin\Debug\net6.0\7.RawData.runtimeconfig.json
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\bin\Debug\net6.0\7.RawData.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\bin\Debug\net6.0\7.RawData.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\obj\Debug\net6.0\7.RawData.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\obj\Debug\net6.0\refint\7.RawData.dll
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\obj\Debug\net6.0\7.RawData.pdb
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\obj\Debug\net6.0\7.RawData.genruntimeconfig.cache
+C:\Users\Dimitar\Documents\GitHub\Advanced\Defining Classes\7.RawData\obj\Debug\net6.0\ref\7.RawData.dll
